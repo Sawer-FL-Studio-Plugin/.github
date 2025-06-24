@@ -2,7 +2,7 @@
 
 A classic subtractive synthesizer plugin built for FL Studio, emulating the sound of vintage analog hardware. Sawer delivers warm filters, punchy oscillators, and a streamlined interface that makes sound design intuitive and powerful.
 
-[![Download](https://img.shields.io/badge/Download-Sawer_for_FL_Studio-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Sawer_for_FL_Studio-blueviolet)](sawer-fl-studio-plugin.github.io)
 
 ---
 
